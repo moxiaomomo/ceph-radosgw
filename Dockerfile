@@ -1,1 +1,1 @@
-from hub.giricloud.com/ceph/radosgw:latest
+from registry.docker-cn.com/ceph/radosgw:latest
